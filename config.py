@@ -89,17 +89,15 @@ UPI_IMAGE_URL = os.environ.get("UPI_IMAGE_URL", "")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/{OWNER_TAG}")
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "30")
+PRICE1 = os.environ.get("PRICE1", "50")
 #1 Month
-PRICE2 = os.environ.get("PRICE2", "80")
+PRICE2 = os.environ.get("PRICE2", "120")
 #3 Month
-PRICE3 = os.environ.get("PRICE3", "250")
+PRICE3 = os.environ.get("PRICE3", "299")
 #6 Month
-PRICE4 = os.environ.get("PRICE4", "450")
+PRICE4 = os.environ.get("PRICE4", "499")
 #1 Year
 PRICE5 = os.environ.get("PRICE5", "800")
-
-
 
 #force message for joining the channel
 FORCE_MSG = os.environ.get("FORCE_MSG", "𝚂𝚘𝚛𝚛𝚢 𝙳𝚞𝚍𝚎 𝚈𝚘𝚞 𝙽𝚎𝚎𝚍 𝚃𝚘 𝙹𝚘𝚒𝚗 𝚃𝚑𝚎𝚜𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜</b>\n\n<b>𝚂𝚘 𝙿𝚕𝚎𝚊𝚜𝚎 𝙲𝚕𝚒𝚌𝚔 𝙱𝚕𝚘𝚠 𝚃𝚘 𝙹𝚘𝚒𝚗 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 🔥</b>")
